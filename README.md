@@ -7,7 +7,7 @@ Our games are currently a hybrid tournament/cash game. Players may only cash out
 * Re-buys are the same as buy-ins.
 * A player may re-buy immediately after busting or at the next tier of blinds.
 * Big blind starts at $0.02 and jumps tiers every 20 minutes. 
-*
+
   > | Tier Level  | Small Blind | Big Blind |
   > | ----------- | ----------- | --------- |
   > | 1       | .01 | .02 |
