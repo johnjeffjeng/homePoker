@@ -148,13 +148,14 @@
 <p>A player who knows she will be absent during a deal but likely back by the time action gets her may request to be dealt in ahead of time. Normal rules apply if she is not present when the actions comes around to her.</p>
 <h2>Betting</h2>
 <p><strong>The minimum raise is the greater number between the of size of the initial bet and the previous raise in that round</strong>. The minimum opening bet is one big blind. However, a player may all</p>
-<pre><code>Example 1: with 25¢/50¢ blinds, players may call for 50¢ or raise to a minimum total of $1. After a raise to $1, the next raise is to a minimum total of $1.50 (a $1 call plus another 50¢ raise).
-</code></pre>
-<pre><code>Example 2: post-flop, the first bet is $1, followed by a raise to $5 total (a raise of $4). The minimum for a subsequent re-raise is $9 total (a $5 call plus another $4 raise).
+<blockquote>Example 1: Pre-flop with 25¢/50¢ blinds: players may call for 50¢ or raise to a minimum total of $1 (raise by 50¢).
+Suppose that Player A raises to $1.50 (raise by $1). Then if the next player wishes to raise, the minimum is a raise by $1 which would increase the amount to $2.50.
+</blockquote>
+<blockquote>Example 2: post-flop, the first bet is $1, followed by a raise to $5 total (a raise by $4). The minimum for a subsequent re-raise is $9 total (a $5 to call plus another $4 raise).
 An all-in wager of less than a full raise does not (by itself) reopen the betting to a player who has already acted.
-</code></pre>
-<pre><code>Example 3: post-flop, 3-handed. Player A bets $10, Player B calls, Player C raises all-in to $16 total. Neither Player A nor Player B may re-raise immediately, as Player C’s all-in wager was not a full re-raise.
-</code></pre>
+</blockquote>
+<blockquote>Example 3: post-flop, 3-handed. Player A bets $10, Player B calls, Player C raises all-in to $16 total. Neither Player A nor Player B may re-raise immediately, as Player C’s all-in wager was not a full re-raise.
+</blockquote>
 <ul>
 <li><strong>Verbal declarations are binding</strong> (“fold”, “check”, “bet”, “call”, “raise”, amount of bet). Raises should be specific. Acceptable raise phrases: “raise, X more”, “raise, plus X”, “raise, X on top”, “raise, Y total”, “raise to Y”, “raise, make it Y”. Just saying “raise Z” is ambiguous — are you raising to Z or raising Z more?</li>
 <li>Place your bets in front of your cards, separate from the pot. No splashing the pot (tossing chips into the pot).</li>
