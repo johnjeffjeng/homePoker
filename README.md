@@ -132,7 +132,7 @@
 <li>New players entering a game-in-progress are not required to post a big blind.</li>
 <li>If a player is absent when it is their turn to act, their hand is dead and they forfeit their blind, if any.
 <blockquote>
-<p>Exception: Be lenient with the host/banker when they’re otherwise busy. <img title=":wink:" alt=":wink:" class="emoji" src="emoji/wink.png" align="absmiddle"></img></p>
+<p>Exception: Be lenient with the host/banker when they’re otherwise busy.</p>
 </blockquote>
 </li>
 <li>No straddles. If you don't know what one is, don't worry about it. If you want straddling in our games, discuss with hosts.</li>
