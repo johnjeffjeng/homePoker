@@ -8,19 +8,19 @@ Our games are currently a hybrid tournament/cash game. Players may only cash out
 * A player may re-buy immediately after busting or at the next tier of blinds.
 * Big blind starts at $0.02 and jumps tiers every 20 minutes. 
 
-  > | Tier Level  | Small Blind | Big Blind |
-  > | ----------- | ----------- | --------- |
-  > | 1       | .01 | .02 |
-  > | 2       | .02 | .04 |
-  > | 3       | .03 | .06 |
-  > | 4       | .05 | .10 |
-  > | 5       | .10 | .20 |
-  > | 6       | .15 | .30 |
-  > | 7       | .20 | .40 |
-  > | 8       | .25 | .50 |
-  > | 9       | .50 | 1.00 |
-  > | 10      | .75 | 1.50 |
-  > | 11      | 1.00 | 2.00 |
+> | Tier Level  | Small Blind | Big Blind |
+> | ----------- | ----------- | --------- |
+> | 1       | .01 | .02 |
+> | 2       | .02 | .04 |
+> | 3       | .03 | .06 |
+> | 4       | .05 | .10 |
+> | 5       | .10 | .20 |
+> | 6       | .15 | .30 |
+> | 7       | .20 | .40 |
+> | 8       | .25 | .50 |
+> | 9       | .50 | 1.00 |
+> | 10      | .75 | 1.50 |
+> | 11      | 1.00 | 2.00 |
 
 Except where conflicting with the rules below, we adhere to the official [Robert's Rules of Poker v.11](http://www.homepokertourney.com/roberts-rules-of-poker.htm) which is standard for card rooms. New additions or modifications to the following rule set will never take place mid-game unless they do not impact the game itself (eg. implementing a food policy).
 
